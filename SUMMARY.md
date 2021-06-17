@@ -53,7 +53,6 @@
 
 * [TUTORIALES](faqs-preguntas-y-respuestas/tutoriales.md)
 * [Preguntas frecuentes](faqs-preguntas-y-respuestas/preguntas-frecuentes.md)
-* [Preguntas Frecuentes](faqs-preguntas-y-respuestas/untitled.md)
 * [RRSS oficiales](faqs-preguntas-y-respuestas/rrss-oficiales.md)
 
 ## WOONKLY A NIVEL TÉCNICO <a id="docs-tecnicos"></a>

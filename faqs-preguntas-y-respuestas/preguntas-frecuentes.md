@@ -150,7 +150,24 @@ Antes de aceptar un envío, revise varias veces todo está correcto.
 
 El WOOP está a la venta en varios exchange y swaps. Tenemos tutoriales en nuestro canal de youtube que te muestran cómo adquirirlos de diferentes formas.
 
-## En defi.finance 
+## ¿Dónde puedo ver el precio del WOOP?
+
+Puedes ver en cualquier momento el precio del WOOP en defi.finance, coinmarketcap, swaps en los que esté disponible wl WOOP y exchanges que tengan listado el WOOP
+
+## ¿Qué hago si no encuentro cómo solucionar mi problema?
+
+Cualquier problema, o duda que no pueda ser resuelta con este documento o con nuestro tutoriales debe enviar un correo a soporte@woonkly.com indicando:
+
+-Motivo del mensaje \(Problema\)  
+-Cartera  
+-Hash en el caso de ser algún problema con algún envío  
+-Fotos o vídeos de dicho problema
+
+## ¿Cómo añado el wDEFI a mi metamask?
+
+Debe darle a !añadir token! sobre la red de BSC y pegar el siguiente contrat:
+
+0x291083c8aedfc3cd0384494e1fcdcf2067d28d3e
 
 
 
