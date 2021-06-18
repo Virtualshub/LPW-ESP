@@ -12,7 +12,7 @@ description: Visión y misión para todo el 2021
 
 * Resultado Auditorías Coinfabrik, Certik y Haken del SWAP Interno AMM y Stake Panel.
 * Aplicación para listarnos en [Coinmarketcap](https://Coinmarketcap.com), [Coingecko](https://coingecko.com) y similares.
-* Aplicación par listarnos en Exchanges fuera de Woonkly.
+* Aplicación para listarnos en Exchanges fuera de Woonkly.
 
 **Abril 2021:** 
 
