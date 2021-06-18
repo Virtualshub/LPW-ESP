@@ -134,7 +134,7 @@ Cuando aumenta la cantidad de woops en stake se hace harvest automáticamente y 
 Compruebe que añadió el contrato de wDEFI correctamente.  
 
 
-## ¿Qué pasa si me equivoco y mando tokens a una dirección erróena?
+## ¿Qué pasa si me equivoco y mando tokens a una dirección errónea?
 
 Siempre se debe revisar varias veces que todo se esté haciendo correctamente. Si envía WOOPS o cualquier token a una dirección de contrato u a otra dirección éstos no podrán recuperarse y la compañía nos e hace responsable de su pérdida.
 
