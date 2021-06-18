@@ -105,6 +105,33 @@ DOCUMENTOS VÁLIDOS:
 -Declaración de impuestos   
 -Documentos del estado \(como el padrón\)
 
+## ¿Qué países no pueden pasar el KYC en Woonkly?
+
+Albania   
+Afghanistan  
+The Bahamas   
+Barbados   
+Botswana   
+Cambodia   
+Democratic People’s Republic of Korea \(DPRK\)   
+Ghana   
+Iran   
+Iraq   
+Jamaica   
+Mauritius   
+Myanmar   
+Nicaragua   
+Pakistan   
+Panama   
+Syria   
+Trinidad and Tobago   
+Uganda   
+Vanuatu   
+Yemen   
+Zimbabwe   
+Iceland   
+Mongolia
+
 **¿Si me falta algún documento o está caducado o no cumplo requisitos puedo pasar el KYC?**
 
 No, usted debe cumplir con los requisitos que nos exigen para poder permitirle pasar el KYC y acceder a la plataforma sin problemas a futuro.
