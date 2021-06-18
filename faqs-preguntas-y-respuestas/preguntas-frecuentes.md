@@ -81,12 +81,6 @@ El KYC es un proceso que puede ser algo tedioso, pero necesario y exigido a día
 
 Woonkly quiere cumplir con todas las regulaciones establecidas por los organismos y es por eso, que dentro de sus productos y/o servicios exige el KYC para poder usarlos
 
-### He encontrado los tokens WNK \(WOONK\) y WOONK \(WOONKLY\) ¿Qué son?
-
-Se tratan de tokens antiguos de la compañía. Dichos tokens no tienen ningún valor. Todos los tokens fueron anulados y a sus poseedores se les envió el **único token válido el WOOP.**
-
-**ATENCIÓN. HAY SCAMERS Y TIMADORES INTENTANDO VENDER DICHOS TOKENS, NO CAIGAN EN TIMOS, ESOS TOKENS NO SON VÁLIDOS PARA LA COMPAÑÍA.**
-
 ### **¿Cómo puedo ser NODO?**
 
 Por el momento no tenemos ninguna lista abierta para apuntarse a ser nodo, cuando nos sea necesario que los usuarios se conviertan en nodos, haremos un aviso oficial en nuestras RRSS y un seminario específico para indicar cómo proceder a ser nodo.
