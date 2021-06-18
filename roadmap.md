@@ -23,16 +23,16 @@ description: Visión y misión para todo el 2021
 
 * Lanzamiento de SWAP \(AMM\) interno de Woonkly.com entre par BNB/WOOP.
 * Lanzamiento de Stake Panel Woonkly.
-* Comienzo auditorias para defi.finance
-* Lanzamiento V1 de defi.finance
-* Listados en al menor 3 exchanges diferentes
+* Comienzo auditorias para defi.finance.
+* Lanzamiento V1 de defi.finance.
+* Listados en al menos 3 exchanges diferentes.
 
 **Junio 2021:**
 
 * Pre-Lanzamiento de la Red Social NFT de Woonkly con funciones básicas.
-* Versión V2 de defi.finance \( Versión que cumple con las normativas Europeas en la materia\)
+* Versión V2 de defi.finance \(versión que cumple con las normativas Europeas en la materia\).
 * Asistencia y organización del evento AGORA sobre blockchain en Dubai.
-* Asociación con una empresa de cyber-seguridad para al auditoría y control de los servicios Woonkly
+* Asociación con una empresa de cyber-seguridad para al auditoría y control de los servicios Woonkly.
 
 **Julio 2021:**
 
@@ -46,7 +46,7 @@ description: Visión y misión para todo el 2021
 * Lanzamiento DEX Crosschain & Stable Coin . \(Estos tiempos pueden cambiar dado que estamos buscando ser el primer DEX Crosschain & Stable coin que cumpla con las regulaciones impuestas por la Unión Europea\).
 * Inicio del desarrollo de los protocolos de Inteligencia Artificial de Woonkly.
 * Publicación de RUTA para el 2022.
-* Publicación de las bases y fechas de la aceleradora de Woonkly
+* Publicación de las bases y fechas de la aceleradora de Woonkly.
 
 {% hint style="info" %}
 Nuestro road map está vivo. Podrás visitarlo cada mes y encontrar nuevas funcionalidades y proyectos que Woonkly actualizará y realizará.
