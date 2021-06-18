@@ -136,7 +136,7 @@ Compruebe que añadió el contrato de wDEFI correctamente.
 
 ## ¿Qué pasa si me equivoco y mando tokens a una dirección errónea?
 
-Siempre se debe revisar varias veces que todo se esté haciendo correctamente. Si envía WOOPS o cualquier token a una dirección de contrato u a otra dirección éstos no podrán recuperarse y la compañía nos e hace responsable de su pérdida.
+Siempre se debe revisar varias veces que todo se esté haciendo correctamente. Si envía WOOPS o cualquier token a una dirección de contrato u a otra dirección éstos no podrán recuperarse y la compañía no se hace responsable de su pérdida.
 
 Antes de aceptar un envío, revise varias veces todo está correcto.
 
@@ -150,7 +150,7 @@ Puedes ver en cualquier momento el precio del WOOP en defi.finance, coinmarketca
 
 ## ¿Qué hago si no encuentro cómo solucionar mi problema?
 
-Cualquier problema, o duda que no pueda ser resuelta con este documento o con nuestro tutoriales debe enviar un correo a soporte@woonkly.com indicando:
+Cualquier problema, o duda que no pueda ser resuelta con este documento o con nuestros tutoriales debe enviar un correo a soporte@woonkly.com indicando:
 
 -Motivo del mensaje \(Problema\)  
 -Cartera  
