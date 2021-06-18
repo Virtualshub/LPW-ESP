@@ -127,7 +127,7 @@ Datos Contrato token Woop
 -SÍMBOLO: WOOP       
 -DECIMALES: 18
 
-## ¿Por qué cuando pongo más token en defi.finance desaparecen mis ganacias?
+## ¿Por qué cuando pongo más token en defi.finance desaparecen mis ganancias?
 
 Cuando aumenta la cantidad de woops en stake se hace harvest automáticamente y sus ganancias de wDEFI pasan directamente a la wallet desde la que realizo stake.
 
@@ -146,7 +146,7 @@ El WOOP está a la venta en varios exchange y swaps. Tenemos tutoriales en nuest
 
 ## ¿Dónde puedo ver el precio del WOOP?
 
-Puedes ver en cualquier momento el precio del WOOP en defi.finance, coinmarketcap, swaps en los que esté disponible wl WOOP y exchanges que tengan listado el WOOP
+Puedes ver en cualquier momento el precio del WOOP en defi.finance, coinmarketcap, swaps en los que esté disponible el WOOP y exchanges que tengan listado el WOOP
 
 ## ¿Qué hago si no encuentro cómo solucionar mi problema?
 
