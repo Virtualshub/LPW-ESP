@@ -159,7 +159,7 @@ Cualquier problema, o duda que no pueda ser resuelta con este documento o con nu
 
 ## ¿Cómo añado el wDEFI a mi metamask?
 
-Debe darle a !añadir token! sobre la red de BSC y pegar el siguiente contrat:
+Debe darle a !añadir token! sobre la red de BSC y pegar el siguiente contrato:
 
 0x291083c8aedfc3cd0384494e1fcdcf2067d28d3e
 
