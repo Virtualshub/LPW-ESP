@@ -43,7 +43,7 @@ description: Visión y misión para todo el 2021
 
 **Octubre 2021:**
 
-* Lanzamiento DEX Crosschain & Stable Coin . \(Estos tiempos pueden cambiar dado que estamos buscando ser el primer DEX Crosschain & Stable coin que cumpla con las regulaciones impuestas por la Unión Europea\).
+* Lanzamiento DEX Crosschain & Stable Coin. \(Estos tiempos pueden cambiar dado que estamos buscando ser el primer DEX Crosschain & Stable coin que cumpla con las regulaciones impuestas por la Unión Europea\).
 * Inicio del desarrollo de los protocolos de Inteligencia Artificial de Woonkly.
 * Publicación de RUTA para el 2022.
 * Publicación de las bases y fechas de la aceleradora de Woonkly.
