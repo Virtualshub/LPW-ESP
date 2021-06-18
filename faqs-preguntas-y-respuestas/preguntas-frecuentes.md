@@ -2,7 +2,7 @@
 
 ## **¿Qué es Woonkly?**
 
-Woonkly es una empresa tecnológica de Estonia, fundada por emprendedores españoles, especializada en crear productos y servicios sobre blockchain. Su amplio alcance tecnológico y su espíritu disruptivo le permiten desarrollar diferentes modelos de negocio y soluciones tecnológicas innovadoras que empoderen a los usuarios con el control de sus datos y sus finanzas.Have you had a chance to answer the previous question?
+Woonkly es una empresa tecnológica de Estonia, fundada por emprendedores españoles, especializada en crear productos y servicios sobre blockchain. Su amplio alcance tecnológico y su espíritu disruptivo le permiten desarrollar diferentes modelos de negocio y soluciones tecnológicas innovadoras que empoderen a los usuarios con el control de sus datos y sus finanzas.
 
 ## ¿Quiénes trabajan en Woonkly?
 
