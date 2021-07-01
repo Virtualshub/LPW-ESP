@@ -30,7 +30,7 @@ description: Visión y misión para todo el 2021
 **Junio 2021:**
 
 * Pre-Lanzamiento de la Red Social NFT de Woonkly con funciones básicas.
-* Versión V2 de defi.finance \(versión que cumple con las normativas Europeas en la materia\).
+* Versión V 1.2 de defi.finance \(versión que cumple con las normativas Europeas en la materia\).
 * Asistencia y organización del evento AGORA sobre blockchain en Dubai.
 * Asociación con una empresa de cyber-seguridad para al auditoría y control de los servicios Woonkly.
 
