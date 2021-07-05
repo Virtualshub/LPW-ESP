@@ -41,9 +41,12 @@ description: Visión y misión para todo el 2021
 * Lanzamiento SWAP \(AMM\) externo de Woonkly entre cualquier par de las redes ERC20 y BEP20 con Pools de liquidez.
 * Comienzo del desarrollo de los protocolos de Gobierno descentralizado de Woonkly.
 
-**Octubre 2021:**
+**Septiembre 2021:**
 
 * Lanzamiento de Versión V 2 de defi.finance con router de liquidez propio.
+
+**Octubre 2021:**
+
 * Lanzamiento DEX Crosschain & Stable Coin. \(Estos tiempos pueden cambiar dado que estamos buscando ser el primer DEX Crosschain & Stable coin que cumpla con las regulaciones impuestas por la Unión Europea\).
 * Inicio del desarrollo de los protocolos de Inteligencia Artificial de Woonkly.
 * Publicación de RUTA para el 2022.
