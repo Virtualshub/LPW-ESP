@@ -36,14 +36,9 @@ description: Visión y misión para todo el 2021
 
 **Julio 2021:**
 
-* Conexión de nuestro protocolo AMM con diferentes protocolos descentralizados de liquidez como [1inch.exchange](https://1inch.exchange).
-* Lanzamiento Red Social NFT v1
-* Lanzamiento SWAP \(AMM\) externo de Woonkly entre cualquier par de las redes ERC20 y BEP20 con Pools de liquidez.
-* Comienzo del desarrollo de los protocolos de Gobierno descentralizado de Woonkly.
-
-**Septiembre 2021:**
-
-* Lanzamiento de Versión V 2 de defi.finance con router de liquidez propio.
+* Lanzamiento Red Social NFT v1 
+* **Septiembre 2021:**
+* Lanzamiento de Versión V2 de defi.finance con router de liquidez propio.
 
 **Octubre 2021:**
 
