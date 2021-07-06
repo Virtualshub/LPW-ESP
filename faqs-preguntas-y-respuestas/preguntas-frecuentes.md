@@ -41,19 +41,19 @@ La plantilla está creciendo día a día por lo que puede que los datos aquí ex
 [https://www.linkedin.com/in/kevin-salgado-quino-447a09140/](https://www.linkedin.com/in/kevin-salgado-quino-447a09140/)
 
 **-Javier Herrador  -** Project Manager - Backend Dev  
-****[**https://www.linkedin.com/in/javierherrador/**](https://www.linkedin.com/in/javierherrador/)
+****[https://www.linkedin.com/in/javierherrador/](https://www.linkedin.com/in/javierherrador/)
 
 **-Luis Martin Hormanstorfer-** Blockchain Development Manager.   
-****[**https://www.linkedin.com/in/martin-hormanstorfer-810560aa/**](https://www.linkedin.com/in/martin-hormanstorfer-810560aa/)
+****[https://www.linkedin.com/in/martin-hormanstorfer-810560aa/](https://www.linkedin.com/in/martin-hormanstorfer-810560aa/)
 
 **-Bojan Terzic-** Blockchain Developer   
-****[**https://www.linkedin.com/in/bojan-terzic-4070b9216/**](https://www.linkedin.com/in/bojan-terzic-4070b9216/)  
+****[https://www.linkedin.com/in/bojan-terzic-4070b9216/](https://www.linkedin.com/in/bojan-terzic-4070b9216/)  
   
 **-Juan Gonzalez -**  AWS Infraestructure  
-[**https://www.linkedin.com/in/juanma-gonzalez-a9934137/**](https://www.linkedin.com/in/juanma-gonzalez-a9934137/)
+[https://www.linkedin.com/in/juanma-gonzalez-a9934137/](https://www.linkedin.com/in/juanma-gonzalez-a9934137/)
 
 **-Bryam Yhair Pérez Diaz -**  Blockchain Backend  
-****[**https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/**](https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/)  
+****[https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/](https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/)  
 ****
 
 ## ¿Cuáles son las redes sociales de Woonkly?
