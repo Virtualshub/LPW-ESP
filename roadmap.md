@@ -37,7 +37,9 @@ description: Visión y misión para todo el 2021
 **Julio 2021:**
 
 * Lanzamiento Red Social NFT v1 
-* **Septiembre 2021:**
+
+**Septiembre 2021:**
+
 * Lanzamiento de Versión V2 de defi.finance con router de liquidez propio.
 
 **Octubre 2021:**
