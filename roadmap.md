@@ -24,7 +24,7 @@ description: Visión y misión para todo el 2021
 * Lanzamiento de SWAP \(AMM\) interno de Woonkly.com entre par BNB/WOOP.
 * Lanzamiento de Stake Panel Woonkly.
 * Comienzo auditorias para defi.finance.
-* Lanzamiento V1 de defi.finance.
+* Lanzamiento V 1 de defi.finance.
 * Listados en al menos 3 exchanges diferentes.
 
 **Junio 2021:**
@@ -36,11 +36,11 @@ description: Visión y misión para todo el 2021
 
 **Julio 2021:**
 
-* Lanzamiento Red Social NFT v1 
+* Lanzamiento Red Social NFT V 1 
 
 **Septiembre 2021:**
 
-* Lanzamiento de Versión V2 de defi.finance con router de liquidez propio.
+* Lanzamiento de Versión V 2 de defi.finance con router de liquidez propio.
 
 **Octubre 2021:**
 
