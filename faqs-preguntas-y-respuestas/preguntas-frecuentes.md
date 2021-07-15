@@ -6,9 +6,9 @@ Woonkly es una empresa tecnológica de Estonia, fundada por emprendedores españ
 
 ## ¿Quiénes trabajan en Woonkly?
 
-La plantilla está creciendo día a día por lo que puede que los datos aquí expuestos no estén actualizados. En cualquier caso, puedes ver a nuestros trabajadores buscando la empresa "woonkly" en linkedin
+La plantilla está creciendo día a día por lo que puede que los datos aquí expuestos no estén actualizados. En cualquier caso, puedes ver a nuestros trabajadores buscando la empresa "Woonkly" en Linkedin.
 
-**-Daniel Álvaro Santos Córcoles** - CEO de la compañía y creador del proyecto, responsable de las decisiones finales y comercialización del mismo a través del canal privado Mr. Santos.  
+**-Daniel Álvaro Santos Córcoles -** CEO de la compañía y creador del proyecto, responsable de las decisiones finales y comercialización del mismo a través del canal privado Mr. Santos.  
 ****[https://www.linkedin.com/in/danielsantoscorcoles/](https://www.linkedin.com/in/danielsantoscorcoles/)
 
 **-Shuberth Chi Balam -** COO, involucrado desde los inicios, encargado de conexiones entre los empleados y gestión general de la empresa, acuerdos y tratos con otras empresas o con usuarios. [https://www.linkedin.com/in/shuberth-chi-balam/](https://www.linkedin.com/in/shuberth-chi-balam/)\*\*\*\*
@@ -40,19 +40,19 @@ La plantilla está creciendo día a día por lo que puede que los datos aquí ex
 -**Kevin Quino -** UX & UI Designer.  
 [https://www.linkedin.com/in/kevin-salgado-quino-447a09140/](https://www.linkedin.com/in/kevin-salgado-quino-447a09140/)
 
-**-Javier Herrador  -** Project Manager - Backend Dev  
+**-Javier Herrador -** Project Manager - Backend Dev  
 ****[https://www.linkedin.com/in/javierherrador/](https://www.linkedin.com/in/javierherrador/)
 
-**-Luis Martin Hormanstorfer-** Blockchain Development Manager.   
+**-Luis Martin Hormanstorfer -** Blockchain Development Manager.   
 ****[https://www.linkedin.com/in/martin-hormanstorfer-810560aa/](https://www.linkedin.com/in/martin-hormanstorfer-810560aa/)
 
-**-Bojan Terzic-** Blockchain Developer   
+**-Bojan Terzic -** Blockchain Developer   
 ****[https://www.linkedin.com/in/bojan-terzic-4070b9216/](https://www.linkedin.com/in/bojan-terzic-4070b9216/)  
   
 **-Juan Gonzalez -**  AWS Infraestructure  
 [https://www.linkedin.com/in/juanma-gonzalez-a9934137/](https://www.linkedin.com/in/juanma-gonzalez-a9934137/)
 
-**-Bryam Yhair Pérez Diaz -**  Blockchain Backend  
+**-Bryam Yhair Pérez Diaz -** Blockchain Backend  
 ****[https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/](https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/)  
 ****
 
