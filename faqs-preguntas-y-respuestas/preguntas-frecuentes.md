@@ -92,7 +92,9 @@ Woonkly cuenta con licencia de crypto wallet y crypto exchange, otorgadas por la
 
 ## **¿Por qué es necesario pasar un KYC?** 
 
-El KYC es un proceso que puede ser algo tedioso, pero necesario y exigido a día de hoy por las autoridades para evitar el blanqueo de capitales, o la financiación de actividades delictivas. El KYC o "Know Your Customer" es un proceso de verificación de la identidad del usuario, para el cual necesitarás una fotografía en la que se vea tu cara claramente junto a un documento de identidad o pasaporte , y algún informe o factura que acredite tu dirección \(puedes ver los documentos válidos de KYC en la siguiente pregunta\)
+El KYC es un proceso que puede ser algo tedioso, pero necesario y exigido a día de hoy por las autoridades para evitar el blanqueo de capitales, o la financiación de actividades delictivas. 
+
+El KYC o "Know Your Customer" es un proceso de verificación de la identidad del usuario, para el cual necesitarás tu DNI o pasaporte, un dispositivo con cámara para el proceso de reconocimiento facial, y algún documento oficial o factura de servicios que acredite tu dirección \(puedes ver los documentos válidos de KYC en la siguiente pregunta\)
 
 Woonkly quiere cumplir con todas las regulaciones establecidas por los organismos y es por eso, que dentro de sus productos y/o servicios exige el KYC para poder usarlos
 
