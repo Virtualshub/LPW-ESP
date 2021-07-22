@@ -102,7 +102,7 @@ Woonkly quiere cumplir con todas las regulaciones establecidas por los organismo
 
 Por el momento no tenemos ninguna lista abierta para apuntarse a ser nodo, cuando nos sea necesario que los usuarios se conviertan en nodos, haremos un aviso oficial en nuestras RRSS y un seminario específico para indicar cómo proceder a ser nodo.
 
-### **DOCUMENTOS VÁLIDOS PARA KYC \(**Válido para todos los productos de Woonkly**\):**
+### **Documentos válidos para el KYC \(**Válido para todos los productos de Woonkly**\):**
 
 **Identificación:**
 
