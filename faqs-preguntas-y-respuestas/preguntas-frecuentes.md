@@ -104,8 +104,8 @@ Por el momento no tenemos ninguna lista abierta para apuntarse a ser nodo, cuand
 
 **Identificación:**
 
--DNI o pasaporte  
--Para UK, Canadá y EEUU será válido el carnet de conducir \(Para el resto de países NO\)
+-Documento de identidad oficial o pasaporte.  
+-Para UK, Canadá y EEUU será válido el carnet de conducir \(Para el resto de países NO\).
 
 **Comprobante de domicilio:**
 
