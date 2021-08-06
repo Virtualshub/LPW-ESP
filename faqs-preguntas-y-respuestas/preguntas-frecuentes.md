@@ -102,23 +102,9 @@ Por el momento no tenemos ninguna lista abierta para apuntarse a ser nodo, cuand
 
 ### **Documentos válidos para el KYC \(**Válido para todos los productos de Woonkly**\):**
 
-**Identificación:**
-
--Documento de identidad oficial o pasaporte.  
--Para UK, Canadá y EEUU será válido el carnet de conducir \(Para el resto de países NO\).
-
-**Comprobante de domicilio:**
-
-REQUISITOS OBLIGATORIOS:  
--Debe estar a nombre del interesado  
--Debe contener una fecha de expedición menor a 3 meses  
--Debe contener la dirección del interesado
-
-DOCUMENTOS VÁLIDOS:  
--Facturas de suministros \(Luz, agua, internet, gas o teléfono\)  
--Estados de cuenta  
--Declaración de impuestos   
--Documentos del estado \(como el padrón\)
+1. Identificación vigente o Pasaporte \(Licencia de conducir solo para Reino Unido\); 
+2. Comprobante de domicilio no mayor a 3 meses de antigüedad, el documento debe contener al menos: Mismo nombre que la identificación, una dirección válida. Documentos aceptados: Facturas de electricidad, gas, agua, internet de casa, estados de cuenta o domiciliaciones bancarias, empadronamiento, pagos de impuestos del país\)   Nota:  1. Los recibos o facturas de servicios como Amazon, talleres de reparación, recibos de correos y otros, no son válidos. 2. Contrato de arrendamiento solo si contiene firma de notario. 
+3. Países de lista negra – acceso denegado / Países en lista gris – Acceso limitado, la persona deberá acreditar la veracidad de sus fondos.
 
 ## ¿Qué países no pueden pasar el KYC en Woonkly?
 
