@@ -131,7 +131,11 @@ Mongolia
 
 **¿Si me falta algún documento o está caducado o no cumplo requisitos puedo pasar el KYC?**
 
-No, usted debe cumplir con los requisitos que nos exigen para poder permitirle pasar el KYC y acceder a la plataforma sin problemas a futuro.
+No, los documentos que proporcione siempre deberán estar vigentes.
+
+**¿Puedo utilizar los servicios sin pasar un KYC?**
+
+No, todos los usuarios que deseen utilizar nuestros servicios deberán pasar por el proceso de identificación.
 
 
 
