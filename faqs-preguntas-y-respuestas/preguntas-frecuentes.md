@@ -96,10 +96,6 @@ Para poder utilizar nuestros servicios, todos los usuarios deberán pasar un pro
 
 El KYC o "Know Your Customer" es un proceso de verificación el cual tiene la finalidad de acreditar la identidad de un usuario, así como la procedencia de sus fondos. Dentro de este proceso los usuarios deberán ser conscientes que se les solicitará documentación de identificación y residencia, datos personales, y en algunos casos se podrá solicitar documentación adicional.
 
-### **¿Cómo puedo ser NODO?**
-
-Por el momento no tenemos ninguna lista abierta para apuntarse a ser nodo, cuando nos sea necesario que los usuarios se conviertan en nodos, haremos un aviso oficial en nuestras RRSS y un seminario específico para indicar cómo proceder a ser nodo.
-
 ### **Documentos válidos para el KYC \(**Válido para todos los productos de Woonkly**\):**
 
 1. Identificación vigente o Pasaporte \(Licencia de conducir solo para Reino Unido\); 
@@ -136,6 +132,12 @@ Mongolia
 **¿Si me falta algún documento o está caducado o no cumplo requisitos puedo pasar el KYC?**
 
 No, usted debe cumplir con los requisitos que nos exigen para poder permitirle pasar el KYC y acceder a la plataforma sin problemas a futuro.
+
+
+
+### **¿Cómo puedo ser NODO?**
+
+Por el momento no tenemos ninguna lista abierta para apuntarse a ser nodo, cuando nos sea necesario que los usuarios se conviertan en nodos, haremos un aviso oficial en nuestras RRSS y un seminario específico para indicar cómo proceder a ser nodo.
 
 ## **AÑADIR RED BSC Y TOKEN WOOP**
 
