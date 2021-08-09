@@ -95,31 +95,31 @@ https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/](https://www.linke
 
 ## ¿Cuáles son las redes sociales de Woonkly?
 
-Facebook Url: https://www.facebook.com/woonkly/
+Facebook Url: [https://www.facebook.com/woonkly/](https://www.facebook.com/woonkly/)
 
-Twitter Url: https://twitter.com/woonklyes
+Twitter Url: [https://twitter.com/woonklyes](https://twitter.com/woonklyes)
 
-Youtube Url: https://www.youtube.com/c/Woonkly
+Youtube Url: [https://www.youtube.com/c/Woonkly](https://www.youtube.com/c/Woonkly)
 
-Instagram: https://www.instagram.com/woonklyes/
+Instagram: [https://www.instagram.com/woonklyes/](https://www.instagram.com/woonklyes/)
 
-Telegram Comunidad: https://t.me/woonkly
+Telegram Comunidad: [https://t.me/woonkly](https://t.me/woonkly)
 
-Telegram Difusión: https://t.me/WOONKLY\_ES
+Telegram Difusión: [https://t.me/WOONKLY\_ES](https://t.me/WOONKLY_ES)
 
-LinkedIn: https://www.linkedin.com/company/28134161/admin/
+LinkedIn: [https://www.linkedin.com/company/28134161/admin/](https://www.linkedin.com/company/28134161/admin/)
 
-Githhub: https://github.com/Woonkly
+Githhub: [https://github.com/Woonkly](https://github.com/Woonkly)
 
-Livepaper Url: https://whitepaper.woonkly.com/livepaper/
+Livepaper Url: [https://whitepaper.woonkly.com/livepaper/](https://whitepaper.woonkly.com/livepaper/)
 
-Goingecko: https://www.coingecko.com/es/monedas/woonkly-power
+Goingecko: [https://www.coingecko.com/es/monedas/woonkly-power](https://www.coingecko.com/es/monedas/woonkly-power)
 
-Coinmarketcap: https://coinmarketcap.com/es/currencies/woonkly-power/
+Coinmarketcap: [https://coinmarketcap.com/es/currencies/woonkly-power/](https://coinmarketcap.com/es/currencies/woonkly-power/)
 
 ## ¿Qué productos/servicios tiene Woonkly?
 
-Puedes ver la sección actualizada en este livepaper en el punto 3 de productos de woonkly
+Puedes ver la sección actualizada en este livepaper en el punto 3 de productos de Woonkly.
 
 ## ¿Dónde encuentro las licencias de operación?
 
