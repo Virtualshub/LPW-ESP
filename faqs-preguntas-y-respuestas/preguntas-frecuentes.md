@@ -8,7 +8,7 @@ Woonkly es una empresa tecnológica de Estonia, fundada por emprendedores españ
 
 La plantilla está creciendo día a día por lo que puede que los datos aquí expuestos no estén actualizados. En cualquier caso, puedes ver a nuestros trabajadores buscando la empresa "Woonkly" en Linkedin.
 
-**-Daniel Álvaro Santos Córcoles -** CEO de la compañía y creador del proyecto, responsable de las decisiones finales y comercialización del mismo a través del canal privado Mr. Santos.  
+**-Daniel Santos -** CEO de la compañía y creador del proyecto, responsable de las decisiones finales y comercialización del mismo a través del canal privado Mr. Santos.  
 ****[https://www.linkedin.com/in/danielsantoscorcoles/](https://www.linkedin.com/in/danielsantoscorcoles/)
 
 **-Shuberth Chi Balam -** COO, involucrado desde los inicios, encargado de conexiones entre los empleados y gestión general de la empresa, acuerdos y tratos con otras empresas o con usuarios. [https://www.linkedin.com/in/shuberth-chi-balam/](https://www.linkedin.com/in/shuberth-chi-balam/)\*\*\*\*
@@ -16,43 +16,43 @@ La plantilla está creciendo día a día por lo que puede que los datos aquí ex
 **-Facundo Arguello -** CTO de la compañía y responsable de todas las decisiones tecnológicas finales.  
 [https://www.linkedin.com/in/facundomartinarg/](https://www.linkedin.com/in/facundomartinarg/)  
   
--**Sara Santos Córcoles -** CMO de la compañía, igualmente involucrada desde comienzos, encargada de atención a los usuarios, compradores y distribución de la información de marketing del proyecto.  
+-**Sara Santos -** CMO de la compañía, igualmente involucrada desde comienzos, encargada de atención a los usuarios, compradores y distribución de la información de marketing del proyecto.  
 [https://www.linkedin.com/in/sarasc9/](https://www.linkedin.com/in/sarasc9/)  
   
--**Esteban Díaz Zoreda -** CFO, involucrado desde los inicios, encargado de la administración general de la empresa y responsable de los contactos legales y gestión legal de la compañía.  
+-**Esteban Díaz -** CFO, involucrado desde los inicios, encargado de la administración general de la empresa y responsable de los contactos legales y gestión legal de la compañía.  
 [https://www.linkedin.com/in/esteban-diaz-6a0168196/](https://www.linkedin.com/in/esteban-diaz-6a0168196/)  
   
--**Jonathan Josué Álvarez Aguirre -** CCO, involucrado desde los inicios, encargado de conexiones de la imagen de marca y reputación de la empresa.  
+-**Jonathan Álvarez -** CCO, involucrado desde los inicios, encargado de conexiones de la imagen de marca y reputación de la empresa.  
 [https://www.linkedin.com/in/jonathan-alvarez-592816bb/](https://www.linkedin.com/in/jonathan-alvarez-592816bb/)  
   
 -**Fernando Molina -** Encargado de relaciones comerciales internacionales, especializado en relaciones con China.  
 [https://www.linkedin.com/in/fernandomolinapinos/](https://www.linkedin.com/in/fernandomolinapinos/)  
   
--**Andrea Stefania Blanco Acuña -** Community Manager. Miembro del equipo de marketing, encargada de la gestión de las comunidades y contenidos en las redes sociales de la empresa.  
+-**Andrea Blanco -** Community Manager. Miembro del equipo de marketing, encargada de la gestión de las comunidades y contenidos en las redes sociales de la empresa.  
 [https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791](https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791)
 
-**-Ramesh Thangapandian -** Full Stack & Blockchain Developer  
+**-Ramesh Thangapandian -** Full Stack & Blockchain Developer.  
 [https://www.linkedin.com/in/rameshthangapandian](https://www.linkedin.com/in/rameshthangapandian)
 
-**-Sergio Alejandro Trejo Cuxim -** Front end Developer  
+**-Sergio Trejo -** Front end Developer.  
 [https://www.linkedin.com/in/trejocode/](https://www.linkedin.com/in/trejocode/)  
   
 -**Kevin Quino -** UX & UI Designer.  
 [https://www.linkedin.com/in/kevin-salgado-quino-447a09140/](https://www.linkedin.com/in/kevin-salgado-quino-447a09140/)
 
-**-Javier Herrador -** Project Manager - Backend Dev  
+**-Javier Herrador -** Project Manager - Backend Dev.  
 ****[https://www.linkedin.com/in/javierherrador/](https://www.linkedin.com/in/javierherrador/)
 
-**-Luis Martin Hormanstorfer -** Blockchain Development Manager.   
+**-Luis Hormanstorfer -** Blockchain Development Manager.   
 ****[https://www.linkedin.com/in/martin-hormanstorfer-810560aa/](https://www.linkedin.com/in/martin-hormanstorfer-810560aa/)
 
-**-Bojan Terzic -** Blockchain Developer   
+**-Bojan Terzic -** Blockchain Developer.  
 ****[https://www.linkedin.com/in/bojan-terzic-4070b9216/](https://www.linkedin.com/in/bojan-terzic-4070b9216/)  
   
-**-Juan Gonzalez -**  AWS Infraestructure  
+**-Juan Gonzalez -**  AWS Infraestructure.  
 [https://www.linkedin.com/in/juanma-gonzalez-a9934137/](https://www.linkedin.com/in/juanma-gonzalez-a9934137/)
 
-**-Bryam Yhair Pérez Diaz -** Blockchain Backend  
+**-Bryam Pérez -** Blockchain Backend.  
 ****[https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/](https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/)  
 ****
 
