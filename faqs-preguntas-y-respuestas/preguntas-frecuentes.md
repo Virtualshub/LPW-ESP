@@ -60,7 +60,37 @@ https://www.linkedin.com/in/bojan-terzic-4070b9216/](https://www.linkedin.com/in
 https://www.linkedin.com/in/juanma-gonzalez-a9934137/](https://www.linkedin.com/in/juanma-gonzalez-a9934137/)
 
 **-Bryam Pérez** - ****Blockchain Backend.[  
-https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/](https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/)  
+https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/](https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/)\*\*\*\*
+
+**-Jorge Alcazar** - Developer.  
+[https://www.linkedin.com/in/jorge-alc%C3%A1zar-d%C3%ADaz-8a7988138/](https://www.linkedin.com/in/jorge-alc%C3%A1zar-d%C3%ADaz-8a7988138/)
+
+**-Raquel Tejero** - Auxiliar administrativa.  
+[https://www.linkedin.com/in/raqueltm/](https://www.linkedin.com/in/raqueltm/)
+
+**-Margus Parn** - CEO Estonia.  
+[https://www.linkedin.com/in/margus-p%C3%A4rn-820b64180](https://www.linkedin.com/in/margus-p%C3%A4rn-820b64180)
+
+**-Aleksei Motuzov** - Director AML.  
+[https://www.linkedin.com/in/aleksei-motuzov-bb758b203](https://www.linkedin.com/in/aleksei-motuzov-bb758b203)
+
+**-Alicia Alonso** - Jefa del equipo de soporte.  
+[https://www.linkedin.com/in/alicialonso/](https://www.linkedin.com/in/alicialonso/)
+
+**-Alan Diez** - Encargado del equipo de soporte.  
+[https://www.linkedin.com/in/alan10/](https://www.linkedin.com/in/alan10/)
+
+**-Doribel Andrés** - Equipo de soporte.  
+[https://www.linkedin.com/in/doribel-andr%C3%A9s-silva-347222178/](https://www.linkedin.com/in/doribel-andr%C3%A9s-silva-347222178/)
+
+**-Paula Ramírez** - Equipo de soporte.  
+[https://www.linkedin.com/in/paula-ram%C3%ADrez-s%C3%A1enz-747270191](https://www.linkedin.com/in/paula-ram%C3%ADrez-s%C3%A1enz-747270191)
+
+**-Pedro Arce** - Equipo de soporte.  
+[https://www.linkedin.com/in/pedro-arce-de-cea-b4b558105/](https://www.linkedin.com/in/pedro-arce-de-cea-b4b558105/)
+
+**-Iris Kysler** - Diseñadora gráfica.  
+[https://www.linkedin.com/in/iris-kysler-00012bb9](https://www.linkedin.com/in/iris-kysler-00012bb9)  
 ****
 
 ## ¿Cuáles son las redes sociales de Woonkly?
