@@ -62,7 +62,7 @@ https://www.linkedin.com/in/juanma-gonzalez-a9934137/](https://www.linkedin.com/
 **-Bryam Pérez** - ****Blockchain Backend.[  
 https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/](https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/)\*\*\*\*
 
-**-Jorge Alcazar** - Developer.  
+**-Jorge Alcazar** - Blockchain Developer.  
 [https://www.linkedin.com/in/jorge-alc%C3%A1zar-d%C3%ADaz-8a7988138/](https://www.linkedin.com/in/jorge-alc%C3%A1zar-d%C3%ADaz-8a7988138/)
 
 **-Raquel Tejero** - Auxiliar administrativa.  
