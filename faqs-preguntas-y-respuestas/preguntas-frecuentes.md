@@ -145,18 +145,18 @@ Por el momento no tenemos ninguna lista abierta para apuntarse a ser nodo, cuand
 
 ## **AÑADIR RED BSC Y TOKEN WOOP**
 
-Le mando un video que ha realizado un miembro de la comunidad en el que se explica paso a paso como añadir la red BSC y el token Woop a Metamask: [https://youtu.be/15jp4\_D-M8s](https://youtu.be/15jp4_D-M8s)
+Cómo añadir la red BSC y el token WOOP a Metamask, paso a paso: [https://youtu.be/1MIY-LFTxOw](https://youtu.be/1MIY-LFTxOw)
 
-Los datos que necesitas son los siguientes:  
-**-**Datos red Binance Smart Chain  
+Los datos que necesita son los siguientes:  
+  
+****Datos red Binance Smart Chain:  
 -Nombre de red: Binance Smart Chain  
 -Nueva URL de RPC: [https://bsc-dataseed.binance.org/](https://www.youtube.com/redirect?q=https%3A%2F%2Fbsc-dataseed.binance.org%2F&v=15jp4_D-M8s&redir_token=QUFFLUhqblFnNklTWnB4Y05URzhXWkR3RG1jQzFHc2Z3d3xBQ3Jtc0trNVU3TVBtWjdwb2lZZldrdzhxY0xRMzlJdGhQQzhnZmNDajJ4d0xNNlY0Y1JaTk9zVldrcnRXVFAzMlZBWlBQWTJxaTg5OS1vY3YySU16Z1JaM1lqcGZLajRiMmF4OXlxVVBtajgzLTRuSmVFWGJ0Yw%3D%3D&event=video_description)  
 -ID de cadena: 56  
 -Símbolo: BNB  
 -URL del Explorador de bloques: [https://bscscan.com](https://www.youtube.com/redirect?q=https%3A%2F%2Fbscscan.com&v=15jp4_D-M8s&redir_token=QUFFLUhqbGNMeEhGT2FuSzBLZUtaRzB5TV9XSVp6bTlHUXxBQ3Jtc0ttYjEwRHJlb0VPM29lVXVoMm1WTDZjSVFRMkZHSlJuN2Z1TEtSVXg2bW0xSWNjMW9kc0hSZHFia1VfREdjV2toUEhKWHRRZk5TTVdpQkdFaktMZERlVlVILUhiM0h3d3o0V21IWE5VMUxtajg1OGZnTQ%3D%3D&event=video_description)
 
-Datos Contrato token Woop
-
+Datos Contrato token WOOP:  
 -CONTRATO: 0x8b303d5bbfbbf46f1a4d9741e491e06986894e18  
 -SÍMBOLO: WOOP       
 -DECIMALES: 18
