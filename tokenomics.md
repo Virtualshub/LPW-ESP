@@ -31,7 +31,7 @@ El 40% de los Token WOOP están en manos del equipo y advisors pero para protege
 
 El bloqueo de los tokens del equipo y advisors permite proteger el mercado de ventas de gran capital y le da la prioridad a los nuevos poseedores de tokens. Esto permite crear un mercado estable y sostenible en el tiempo.
 
-**Actualmente, el 40% de los tokens está bloqueado desde el 1 abril 2021 en un Smart Contract; el 15% pertenece a la Reserva de Woonkly para añadir liquidez en el Pool de Liquidez; y el 3.3% aproximado aún no ha sido intercambiado de Woonks \(antiguo token de Woonkly\) a WOOP \(nuevo token de Woonkly\); lo que significa que APROXIMADAMENTE SÓLO EL 33,7% DE LOS TOKENS ESTÁ REALMENTE EN CIRCULACIÓN A DÍA DE HOY \(Unos 337.000.000 WOOP\).**
+**Actualmente, el 40% de los tokens está bloqueado desde el 1 abril 2021 en un Smart Contract; el 15% pertenece a la Reserva de Woonkly para añadir liquidez en el Pool de Liquidez; y el 10.3% aproximado aún no ha sido intercambiado de Woonks \(antiguo token de Woonkly\) a WOOP \(nuevo token de Woonkly\); lo que significa que APROXIMADAMENTE SÓLO EL 33,7% DE LOS TOKENS ESTÁ REALMENTE EN CIRCULACIÓN A DÍA DE HOY \(Unos 337.000.000 WOOP\).**
 
 _El 100% de los 1.000.000.000 \(mil millones\) de WOOP no estará en circulación hasta el 1 abril 2035._
 
