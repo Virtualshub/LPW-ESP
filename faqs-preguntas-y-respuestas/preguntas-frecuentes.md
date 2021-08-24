@@ -113,7 +113,7 @@ Githhub: [https://github.com/Woonkly](https://github.com/Woonkly)
 
 Livepaper Url: [https://whitepaper.woonkly.com/livepaper/](https://whitepaper.woonkly.com/livepaper/)
 
-Goingecko: [https://www.coingecko.com/es/monedas/woonkly-power](https://www.coingecko.com/es/monedas/woonkly-power)
+Coingecko: [https://www.coingecko.com/es/monedas/woonkly-power](https://www.coingecko.com/es/monedas/woonkly-power)
 
 Coinmarketcap: [https://coinmarketcap.com/es/currencies/woonkly-power/](https://coinmarketcap.com/es/currencies/woonkly-power/)
 
