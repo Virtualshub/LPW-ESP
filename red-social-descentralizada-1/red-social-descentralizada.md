@@ -4,7 +4,7 @@ description: 'El poder de los datos, en manos de los usuarios'
 
 # Red Social Descentralizada \(En proceso\)
 
-Woonkly está desarrollando una red social descentralizada que verá la luz aproximadamente Julio de 2021 en su versión 1.0. 
+Woonkly está desarrollando una red social descentralizada que verá la luz aproximadamente a finales de 2021 en su versión 1.0. 
 
 Toda la red social funciona sobre nuestra propia Blockchain.
 
