@@ -217,7 +217,7 @@ El WOOP está a la venta en varios exchange y swaps. Tenemos tutoriales en nuest
 
 ## ¿Dónde puedo ver el precio del WOOP?
 
-Puedes ver en cualquier momento el precio del WOOP en defi.finance, coinmarketcap, swaps en los que esté disponible el WOOP y exchanges que tengan listado el WOOP.
+Puedes ver en cualquier momento el precio del WOOP en defi.finance, coinmarketcap, coingecko, poocoin coin98, swaps en los que esté disponible el WOOP y exchanges que tengan listado el WOOP.
 
 ## ¿Qué hago si no encuentro cómo solucionar mi problema?
 
