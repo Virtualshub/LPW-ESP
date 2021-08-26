@@ -19,13 +19,13 @@ La Aceleradora de Woonkly es una Joinventure Woonkly OÜ y Crypto plaza y tiene 
 7. Se realizarán mentorías tanto en grupo \(con el resto de ganadores\) como en privado con mentores de diferentes áreas.
 8. Habrá oportunidad de impresionar Business Angels en presentaciones públicas para conseguir el capital requerido por la empresa.
 9. Woonkly y Crypto plaza podrán invertir durante la aceleración más capital en las empresas en las cuales vean más potencial.
-10. Al finald e la aceleración, tendrá lugar un evento conjunto en el cuál las startups podrán realizar su pitch final e impresionar a inversores para conseguir más capital.
+10. Al final de la aceleración, tendrá lugar un evento conjunto en el cual las startups podrán realizar su pitch final e impresionar a inversores para conseguir más capital.
 
 Países donde la aceleradora Woonkly tiene presencia:
 
-* España: Asociación con Crypto plaza \(Madrid\), donde se llevará a cabo la aceleración de forma presencial. \(Primera aceleración - Septiembre 2021\)
-* Estonia: Sede Oficial de Woonkly OÜ \(En proceso\)
-* México: Asociación de Woonkly OÜ con aceleradoras Mexicanas para formar una aceleración conjunta en el país \(En proceso\)
+* España: Asociación con Crypto plaza \(Madrid\), donde se llevará a cabo la aceleración de forma presencial. \(Primera aceleración - 2021\)
+* Estonia: Sede Oficial de Woonkly OÜ \(en proceso\)
+* México: Asociación de Woonkly OÜ con aceleradoras Mexicanas para formar una aceleración conjunta en el país \(en proceso\)
 
-### LA PRIMERA CONVOCATORIA STARTUPS DE LA ACELERADORA DE WOONKLY ESPAÑA TENDRÁ LUGAR EN SEPTIEMBRE DEL 2021. LAS BASES, SALDRÁN PUBLICADAS EL PRÓXIMO AGOSTO.
+### LA PRIMERA CONVOCATORIA STARTUPS DE LA ACELERADORA DE WOONKLY ESPAÑA TENDRÁ LUGAR EN SEPTIEMBRE DEL 2021. LAS BASES SE PUBLICARÁN A FINALES DE 2021.
 
