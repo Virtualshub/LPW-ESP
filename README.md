@@ -22,5 +22,5 @@ Woonkly Labs cree en la blockchain como una de las mayores oportunidades tecnol�
 
 Woonkly es una empresa 100% transparente, en continua evolución y altamente comunicativa, por lo que ofrece actualizaciones frecuentes sobre el proyecto a través de sus múltiples canales de comunicación. 
 
-Woonkly cree en el desarrollo de productos con protocolos claros y licencias que les permitan operar legalmente. Todo ello para contribuir con el crecimiento sostenible y legal del ecosistema cripto y de blockchain mundial.
+Woonkly cree en el desarrollo de productos con protocolos claros y licencias que les permitan operar legalmente e integrar la blockchain con el mundo tradicional. Todo ello para contribuir con el crecimiento sostenible y legal del ecosistema cripto y de blockchain mundial.
 
