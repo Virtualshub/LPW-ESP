@@ -6,7 +6,7 @@ description: >-
 
 # Qué es Woonkly Labs
 
-Woonkly Labs es una empresa tecnológica de Estonia, fundada por emprendedores españoles, especializada en crear productos y servicios sobre blockchain. Su amplio alcance tecnológico y su espíritu disruptivo le permiten desarrollar diferentes modelos de negocio y soluciones tecnológicas innovadoras que empoderan a los usuarios con el control de sus datos y finanzas.
+Woonkly Labs es una empresa tecnológica de Estonia, fundada por emprendedores españoles, especializada en crear productos y servicios sobre blockchain. Su amplio alcance tecnológico y su espíritu disruptivo le permiten desarrollar diferentes modelos de negocio y soluciones tecnológicas innovadoras que empoderan a los usuarios para que tomen el control de sus datos y finanzas.
 
 Como venture builder de proyectos blockchain, Woonkly Labs crea startups que, potencialmente, se convertirán en el próximo unicornio e invierte a través de su aceleradora y fondo en las más prometedoras. 
 

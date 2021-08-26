@@ -2,7 +2,7 @@
 description: SMART CONTRACT CODE REVIEW AND SECURITY ANALYSIS REPORT
 ---
 
-# Auditoria Hacken
+# Auditoría Hacken
 
 ![Preview](../.gitbook/assets/hacken1.png)
 

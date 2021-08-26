@@ -2,7 +2,7 @@
 description: Audit Report - Stake & DEX
 ---
 
-# Auditoria Certik
+# Auditoría Certik
 
 
 

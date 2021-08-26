@@ -53,16 +53,16 @@
 
 * [TUTORIALES](faqs-preguntas-y-respuestas/tutoriales.md)
 * [Preguntas frecuentes](faqs-preguntas-y-respuestas/preguntas-frecuentes.md)
-* [RRSS oficiales](faqs-preguntas-y-respuestas/rrss-oficiales.md)
+* [Redes sociales oficiales](faqs-preguntas-y-respuestas/rrss-oficiales.md)
 
 ## WOONKLY A NIVEL TÉCNICO <a id="docs-tecnicos"></a>
 
 * [Open Source Github](docs-tecnicos/open-source-github.md)
 * [Conectando Metamask a Binance Smart Chain](docs-tecnicos/conectando-metamask-a-binance-smart-chain.md)
 * [Arquitectura Woonkly](docs-tecnicos/arquitectura-woonkly.md)
-* [Auditoria Certik](docs-tecnicos/auditoria-certik.md)
-* [Auditoria Hacken](docs-tecnicos/auditoria-hacken.md)
-* [Auditoria Coin Fabrik](docs-tecnicos/auditoria-coin-fabrik.md)
+* [Auditoría Certik](docs-tecnicos/auditoria-certik.md)
+* [Auditoría Hacken](docs-tecnicos/auditoria-hacken.md)
+* [Auditoría Coin Fabrik](docs-tecnicos/auditoria-coin-fabrik.md)
 
 ## Disposiciones Legales
 
