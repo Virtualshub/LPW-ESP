@@ -18,9 +18,11 @@ Estos eventos incluyen:
 
 Tras probar que el concepto tenía cabida dentro del mundo cripto y publicitario, Woonkly inició operaciones con un equipo de desarrolladores en México.
 
-A día de hoy, Woonkly cuenta con más de 17 desarrolladores y un equipo de profesionales ubicados en diferentes partes del mundo. Además, Woonkly encontró una gran oportunidad de mercado, ya que existen muchas áreas en las que se requiere innovar y diversas necesidades por cubrir debido a que el mundo blockchain y cripto es un ecosistema en constante evolución.
+A día de hoy, Woonkly cuenta con más de 17 desarrolladores y un equipo de más de 40 profesionales ubicados en diferentes partes del mundo. 
 
-Por lo tanto, Woonkly pasó a ser un corporativo de soluciones tecnológicas "**Woonkly Labs"** y la aplicación de red social inicial una de sus ramas. 
+Woonkly encontró una gran oportunidad de mercado, ya que la tecnología blockchain y cripto es un ecosistema en pleno crecimiento que ofrece la posibilidad de mejorar sustancialmente procesos en diferentes sectores económicos, científicos y otros ámbitos que requieren innovación. 
+
+En 2021, Woonkly pasó a ser un corporativo de soluciones tecnológicas "**Woonkly Labs"** y la aplicación de red social inicial una de sus ramas. 
 
 En la actualidad, Woonkly tiene más de seis productos/servicios dentro de su matriz y continúa en constante crecimiento, programando e innovando diariamente.
 
