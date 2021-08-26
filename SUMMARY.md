@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Qué es Woonkly](README.md)
+* [Qué es Woonkly Labs](README.md)
 * [Historia de Woonkly](historia-de-woonkly.md)
 * [Productos de Woonkly](productos-de-woonkly/README.md)
   * [Aceleradora de Startups basados en Blockchain](productos-de-woonkly/aceleradora-de-startups.md)
