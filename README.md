@@ -1,7 +1,7 @@
 ---
 description: >-
   Woonkly Labs es una empresa de soluciones tecnológicas sobre la blockchain que
-  se adapta continuamente al mercado ofreciendo nuevos productos y/o servicios.
+  se adapta continuamente al mercado ofreciendo nuevos productos y servicios.
 ---
 
 # Qué es Woonkly Labs
