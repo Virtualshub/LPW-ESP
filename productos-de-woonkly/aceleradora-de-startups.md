@@ -2,7 +2,7 @@
 description: Apoyando la innovación cuando nadie lo hace.
 ---
 
-# Aceleradora de Startups basados en Blockchain
+# Aceleradora y fondo de Startups Blockchain
 
 Woonkly OÜ es una compañía creada por emprendedores seriales y por ello tenemos un compromiso real con la innovación y los jóvenes talentos que desarrollan en Blockchain.
 
@@ -27,5 +27,5 @@ Países donde la aceleradora Woonkly tiene presencia:
 * Estonia: Sede Oficial de Woonkly OÜ \(en proceso\)
 * México: Asociación de Woonkly OÜ con aceleradoras Mexicanas para formar una aceleración conjunta en el país \(en proceso\)
 
-### LA PRIMERA CONVOCATORIA STARTUPS DE LA ACELERADORA DE WOONKLY ESPAÑA TENDRÁ LUGAR EN SEPTIEMBRE DEL 2021. LAS BASES SE PUBLICARÁN A FINALES DE 2021.
+### LA PRIMERA CONVOCATORIA STARTUPS DE LA ACELERADORA Y FONDO DE WOONKLY ESPAÑA TENDRÁ LUGAR EN 2021. LAS BASES SE PUBLICARÁN A FINALES DE 2021.
 

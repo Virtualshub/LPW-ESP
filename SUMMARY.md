@@ -3,7 +3,7 @@
 * [Qué es Woonkly Labs](README.md)
 * [Historia de Woonkly](historia-de-woonkly.md)
 * [Productos de Woonkly](productos-de-woonkly/README.md)
-  * [Aceleradora de Startups basados en Blockchain](productos-de-woonkly/aceleradora-de-startups.md)
+  * [Aceleradora y fondo de Startups Blockchain](productos-de-woonkly/aceleradora-de-startups.md)
   * [DEFI.FINANCE V1.2](productos-de-woonkly/defi.-finance.md)
   * [Red Social Descentralizada \(En proceso\)](productos-de-woonkly/red-social-descentralizada.md)
   * [NFT.FINANCE](productos-de-woonkly/nft.finance.md)
