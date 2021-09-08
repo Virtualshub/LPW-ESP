@@ -35,7 +35,7 @@ El bloqueo de los tokens del equipo y advisors permite proteger el mercado de ve
 
 _El 100% de los 1.000.000.000 \(mil millones\) de WOOP no estará en circulación hasta el 1 abril 2035._
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/diseno-sin-titulo-1-.png)
 
 
 
