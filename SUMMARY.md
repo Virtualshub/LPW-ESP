@@ -51,7 +51,7 @@
 
 ## FAQS \(Preguntas y Respuestas\)
 
-* [TUTORIALES](faqs-preguntas-y-respuestas/tutoriales.md)
+* [Tutoriales](faqs-preguntas-y-respuestas/tutoriales.md)
 * [Preguntas frecuentes](faqs-preguntas-y-respuestas/preguntas-frecuentes.md)
 * [Redes sociales oficiales](faqs-preguntas-y-respuestas/rrss-oficiales.md)
 

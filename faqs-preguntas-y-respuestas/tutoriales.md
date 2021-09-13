@@ -4,7 +4,7 @@ description: >-
   las actualizaciones sobre el funcionamiento y evolución de Woonkly
 ---
 
-# TUTORIALES
+# Tutoriales
 
 ## Canal de Youtube
 
