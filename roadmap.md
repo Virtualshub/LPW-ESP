@@ -30,11 +30,11 @@ description: Visión y misión para todo el 2021
 
 **Q3 -  2021:**
 
-* Lanzamiento Red Social NFT V 1
 * Lanzamiento de Versión V 2 de defi.finance con router de liquidez propio.
 
 **Q4 - 2021:**
 
+* Lanzamiento Red Social NFT V 1
 * Lanzamiento DEX Crosschain & Stable Coin. \(Estos tiempos pueden cambiar dado que estamos buscando ser el primer DEX Crosschain & Stable coin que cumpla con las regulaciones impuestas por la Unión Europea\).
 * Inicio del desarrollo de los protocolos de Inteligencia Artificial de Woonkly.
 * Publicación de RUTA para el 2022.
