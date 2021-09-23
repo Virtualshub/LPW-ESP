@@ -236,5 +236,8 @@ Debe darle a !añadir token! sobre la red de BSC y pegar el siguiente contrato:
 
 
 
+## ¿Dónde puedo ver la capitalización de mercado de WOOP y wDEFI?
 
+Para poder ver la capitalización de mercado del WOOP se puede verlo en Coingecko si busca WOOP en el buscador de la pagina.  
+Para ver la capitalización de mercado del wDEFI se puede ver en en la pagina principal de defi.finance
 
